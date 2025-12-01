@@ -222,7 +222,7 @@ int main() {
     printf("Key text: %s\n", key);
 
     // Plaintext to be encrypted
-    strcpy(str, "RAGUL");
+    strcpy(str, "JOHN");
     printf("Plain text: %s\n", str);
 
     // Encrypt using Playfair Cipher
@@ -237,4 +237,7 @@ int main() {
 }
 ```
 ## OUTPUT:
+<img width="1322" height="886" alt="image" src="https://github.com/user-attachments/assets/d1b026fb-35ac-45e3-9be7-f102ec109735" />
+
+## RESULT:
 The Playfair Cipher program is executed successfully
